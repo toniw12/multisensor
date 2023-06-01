@@ -8,7 +8,7 @@ Sensors directly on the PCB
 1. [Telaire T6615 CO2 Sensor](https://www.amphenol-sensors.com/en/telaire/co2/525-co2-sensor-modules/319-t6615)
 1. [BME280 Combined humidity and pressure sensor](https://www.bosch-sensortec.com/products/environmental-sensors/humidity-sensors-bme280/)
 
-Aditional sensors connected via the Seeed connecter
+Aditional optional sensors connected via the Seeed connecter
 1. [Sensirion SCD41 CO2 sensor](https://sensirion.com/products/catalog/SCD41/)
 1. [Optical Oxygen Gas Sensor - FDO2](https://www.pyroscience.com/en/products/all-meters/fdo2)
 1. [Sensortech CH4/CO2 INIR sensor](https://www.mouser.com/catalog/specsheets/Amphenol_11212018_DS-0229%20(INIR%20Datasheet)%20V8%20October%202018.pdf)
