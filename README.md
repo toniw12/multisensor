@@ -38,3 +38,8 @@ Aditional optional sensors connected via the Seeed connecter
 | Holding Registers |                    |                        |        |          |
 | Register          |                    | Parameter              |        |          |
 | 0x00              | uint16, write-only | Modbus slave address   |        |          |
+
+## Installation
+
+1. Install the stm32duino environement: https://github.com/stm32duino/Arduino_Core_STM32/wiki/Getting-Started
+2. Install the cinterSensor library: https://github.com/toniw12/cinterSensor
