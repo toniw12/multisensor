@@ -2,6 +2,8 @@
 
 ## Block diagramm
 
+<img src="https://raw.githubusercontent.com/toniw12/multisensor/main/hardware/Block%20diagramm.svg">
+
 ## Sensors
 Sensors directly on the PCB
 1. [MIX8410 Electrochemical Oxygen Gas Sensor](https://wiki.seeedstudio.com/Grove-Gas_Sensor-O2-MIX8410/)
