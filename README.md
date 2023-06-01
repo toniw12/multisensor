@@ -1,7 +1,7 @@
 # Multisensor
 
 Thanks this project multiples sensors can be interfaced over Modbus. With a gas permenant waterproof membrane it is possible to make measurements under water.
-This sensor is part of the [CARBINTER](https://www.creaf.cat/perturbations-carbon-cycle-high-mountain-watersheds-under-more-intermittent-hydrology) project
+This sensor is part of the [CARBINTER](https://www.creaf.cat/perturbations-carbon-cycle-high-mountain-watersheds-under-more-intermittent-hydrology) and [C-InterMont](https://www.creaf.cat/impact-climate-enhanced-hydrological-intermittency-carbon-cycle-high-mountain-watersheds) projects
 
 ## Block diagramm
 
