@@ -39,6 +39,24 @@ Aditional optional sensors connected via the Seeed connecter
 | Register          |                    | Parameter              |        |          |
 | 0x00              | uint16, write-only | Modbus slave address   |        |          |
 
+## Material costs
+
+| Multisensor PCB                              | 22.00 €      |
+| -------------------------------------------- | ------------ |
+|                                              |              |
+| **Sensors**                                  |              |
+| MIX8410 Electrochemical Oxygen Gas sensor    | 41.50 €      |
+| Telaire T6615 CO2 Sensor                     | 108.00 €     |
+| BME280 Combined humidity and pressure sensor | 9.10 €       |
+|                                              |              |
+| **Housing and cables**                       |              |
+| Membrane                                     | 160.00 €     |
+| PVC and others                               | 10.00 €      |
+| 2m Cable                                     | 4.50 €       |
+| Weipu connector                              | 6.50 €       |
+|                                              |              |
+| **Sum**                                      | **361.60 €** |
+
 ## Installation
 
 1. Install the stm32duino environement: https://github.com/stm32duino/Arduino_Core_STM32/wiki/Getting-Started
