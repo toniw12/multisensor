@@ -42,7 +42,6 @@ Aditional optional sensors connected via the Seeed connecter
 ## Material costs
 
 | Multisensor PCB                              | 22.00 €      |
-| -------------------------------------------- | ------------ |
 |                                              |              |
 | **Sensors**                                  |              |
 | MIX8410 Electrochemical Oxygen Gas sensor    | 41.50 €      |
